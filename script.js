@@ -72,7 +72,7 @@ const projectSections = [
     id: "corrosion",
     title: "Corrosion Testing (ASTM B117)",
     description: "Salt spray testing conducted according to ASTM B117 standards to evaluate the corrosion resistance of materials.",
-    images: ["public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg"],
+    images: ["assets/corrosion_test_0_1.jpg", "assets/corrosion_test_0_2.jpg", "assets/corrosion_test_1_1.jpg", "assets/corrosion_test_1_2.jpg"],
     layout: "comparison",
   },
 ];
