@@ -78,7 +78,7 @@ const projectSections = [
 ];
 
 const contactLinks = [
-  { href: "#", label: "your.email@example.com", icon: "mail" },
+  { href: "#", label: "jayjayani16@gmail.com", icon: "mail" },
   { href: "#", label: "LinkedIn Profile", icon: "linkedin" },
   { href: "#", label: "GitHub Profile", icon: "github" },
 ];
