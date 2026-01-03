@@ -50,7 +50,7 @@ const projectSections = [
     title: "Prototype 2 - Manufacturing and Testing",
     description:
       "This system is designed for the Air Force to meet military standards (MIL-STD) for storing pharmaceutical products while operating reliably in harsh environmental conditions.",
-    images: ["public/placeholder.svg", "public/placeholder.svg"],
+    images: ["assets/prototype_2_1.jpg", "assets/prototype_2_2.jpg"],
     layout: "double",
   },
   {
@@ -58,14 +58,14 @@ const projectSections = [
     title: "Finite Element Analysis (FEA)",
     description:
       "Different mechanical structural designs were evaluated to identify the most sustainable load condition that meets customer requirements.",
-    images: ["public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg"],
+    images: ["assets/FEA_1.png", "assets/FEA_2.png", "assets/FEA_3.png", "assets/FEA_4.png"],
     layout: "grid",
   },
   {
     id: "thermal",
     title: "Thermal Analysis of System",
     description: "Comprehensive thermal analysis was performed to evaluate insulation performance and temperature distribution.",
-    images: ["public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg", "public/placeholder.svg"],
+    images: ["assets/thermal_1.jpeg", "assets/thermal_2.jpeg", "assets/thermal_3.jpeg", "assets/thermal_4.jpeg"],
     layout: "grid",
   },
   {
@@ -78,7 +78,7 @@ const projectSections = [
 ];
 
 const contactLinks = [
-  { href: "mailto:jayjayani16@gmail.com", label: "jayjayani16@gmail.com", icon: "mail" },
+  { href: "mailto:jayjayani16@gmail.com", label: "E-Mail", icon: "mail" },
   { href: "https://www.linkedin.com/in/jay-jayani/", label: "LinkedIn Profile", icon: "linkedin" },
   { href: "https://github.com/jjayani", label: "GitHub Profile", icon: "github" },
 ];
