@@ -78,9 +78,9 @@ const projectSections = [
 ];
 
 const contactLinks = [
-  { href: "#", label: "jayjayani16@gmail.com", icon: "mail" },
-  { href: "#", label: "LinkedIn Profile", icon: "linkedin" },
-  { href: "#", label: "GitHub Profile", icon: "github" },
+  { href: "mailto:jayjayani16@gmail.com", label: "jayjayani16@gmail.com", icon: "mail" },
+  { href: "https://www.linkedin.com/in/jay-jayani/", label: "LinkedIn Profile", icon: "linkedin" },
+  { href: "https://github.com/jjayani", label: "GitHub Profile", icon: "github" },
 ];
 
 const buttonBaseClasses =
